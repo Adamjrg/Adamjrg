@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **multiple side projects**
 
-- 🤝 I’m looking for help with **getting into university**
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **insertskinhere#8219 (On discord)**
