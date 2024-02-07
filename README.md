@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">I'm a 18yo French developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamjrg alt="adamjrg" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamjrg" alt="adamjrg" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/insertskinhere" target="blank"><img src="https://img.shields.io/twitter/follow/insertskinhere?logo=twitter&style=for-the-badge" alt="adamjrg" /></a> </p>
 
