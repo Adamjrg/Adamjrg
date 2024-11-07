@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">I'm a 18yo French developer</h3>
+<h3 align="center">I'm a 19yo French developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamjrg" alt="adamjrg" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **insertskinhere#8219 (On discord)**
+- 📫 How to reach me **insertskinhere (On discord)**
 
 - ⚡ Fun fact **I like learning**
 
